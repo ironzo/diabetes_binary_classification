@@ -25,5 +25,5 @@ jupyter notebook Diabetes.ipynb
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## DATASET
+Data was taken from Kaggle - https://www.kaggle.com/datasets/ehababoelnaga/diabetes-dataset/code 
